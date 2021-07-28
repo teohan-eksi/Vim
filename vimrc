@@ -56,3 +56,4 @@ endif
 "my settings
 set number
 set tabstop=4
+set clipboard=unnamed
