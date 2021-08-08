@@ -56,4 +56,5 @@ endif
 "my settings
 set number
 set tabstop=4
+"install vim-gtk
 set clipboard=unnamed
